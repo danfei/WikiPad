@@ -1,0 +1,22 @@
+[labels]
+TH02
+refdes=U?
+! copryright=2014 Atommann
+! author=Atommann
+! uselicense=unlimited
+! distlicense=GPL
+! device=TH02
+! footprint=DIL-4
+
+[left]
+
+1 VDD
+2 SDA
+3 SCK
+4 GND
+
+[right]
+
+[top]
+
+[bottom]
